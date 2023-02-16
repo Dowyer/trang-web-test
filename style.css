@@ -1,0 +1,19 @@
+.kobt
+{
+    color:red;
+    font-size: 20px;
+}
+div
+{
+    width: 100%;
+    height:800px;
+    background-image: url(./assess/img/snow.img.jpg);
+}
+.abcd
+{
+color:blueviolet;
+font-size: 100px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+margin-top: 10px;
+}
